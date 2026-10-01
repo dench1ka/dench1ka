@@ -5,7 +5,13 @@ Backend-разработчик — опыт в Go, Python и C#, REST API. Се�
 реально работают и чем-то полезны — ботом, сервисом или расширением, а
 не просто учебным примером.
 
-**Стек:** Go, Python, C#, PostgreSQL, SQL Server, Docker, REST API
+**Стек:**
+- Языки: Go, Python, C#, TypeScript
+- Backend: net/http + chi, FastAPI, Django, WPF (.NET)
+- Данные: Apache Airflow, SQL (оконные функции, миграции)
+- Базы данных: PostgreSQL, MySQL, SQL Server, SQLite, Redis
+- Боты/интеграции: aiogram, Pyrogram, Telegram Bot API, Anthropic Claude API
+- Инфраструктура: Docker, GitHub Actions
 
 #### Несколько проектов
 
@@ -15,4 +21,5 @@ Backend-разработчик — опыт в Go, Python и C#, REST API. Се�
 - **[byn-fx-extension](https://github.com/dench1ka/byn-fx-extension)** — расширение для Chrome, конвертирует цены в BYN в другие валюты прямо на странице
 - **[my-custom-theme-goskb](https://github.com/dench1ka/my-custom-theme-goskb)** — тема WordPress для сайта Гомельской областной специализированной клинической больницы, дипломный проект, внедрена и работает как основной сайт (goskb.by)
 
-Остальное — в репозиториях.
+Остальное — в репозиториях. Более подробный разбор технологий по каждому
+проекту — в [resume.md](resume.md).
